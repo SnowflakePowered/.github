@@ -26,6 +26,7 @@ Snowflake is a framework for building extensible frontends for modern emulators.
 ## Metadata Projects
 <details>
 <summary>These projects form Snowflake's efforts to archive and catalogue game and game data for use in emulator frontends.</summary>
+
 * [OpenGood](https://github.com/SnowflakePowered/opengood) is a freely-available XML database for ROMs listed in the final distribution of GoodTools.
 * [shiragame](https://github.com/SnowflakePowered/shiragame) is a massive, versioned games database compiled from a variety of DAT cataloguing organizations.
 * [zengyaku](https://github.com/SnowflakePowered/zengyaku) is a set of tools used to reverse engineer unpacked GoodTools binaries.
