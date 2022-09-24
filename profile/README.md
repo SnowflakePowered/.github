@@ -14,7 +14,7 @@ Snowflake is a framework for building extensible frontends for modern emulators.
 <details>
 <summary>These libraries have been created to aid with Snowflake's development and may be useful in your project as well.</summary>
 
-* [winfsp-rs](https://github.com/SnowflakePowered/winfsp-rs) are safe Rust bindings to [WinFSP](https://github.com/winfsp/winfsp).
+* [winfsp-rs](https://github.com/SnowflakePowered/winfsp-rs) provides safe Rust bindings to [WinFSP](https://github.com/winfsp/winfsp).
 * [VCDiff](https://github.com/SnowflakePowered/vcdiff) is an SIMD-accelerated C# library for VCDIFF and xdelta compatible binary diffs with both encode and decode support.
 * [ImGuiBackends](https://github.com/SnowflakePowered/ImGuiBackends) are C# backends for [ImGui.NET](https://github.com/mellinoe/ImGui.NET) using Silk.NET for low overhead.
 * [tsuku](https://github.com/SnowflakePowered/tsuku) is a C# library for tagging files using extended attributes.
