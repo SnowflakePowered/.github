@@ -7,7 +7,7 @@ Snowflake is a framework for building extensible frontends for modern emulators.
 * ❄️ [**Snowflake**](https://github.com/SnowflakePowered/snowflake) is where the core framework lives and undergoes development.
 * 🪨 [Stone](https://github.com/SnowflakePowered/stone) provides standardized, RFC compiliant identifiers to gaming platforms, game content formats, and controller layouts.
 * 🎮 [snowflake-ingame](https://github.com/SnowflakePowered/snowflake-ingame) provides Snowflake's in-game overlay and other facilities like process memory access to frontend plugins.
-* 💾 [snowflake-projfs](https://github.com/SnowflakePowered/snowflake-projfs) provides filesystem isolation and projection for emulators orchestrated by Snowflake.
+* 💾 [aincradfs](https://github.com/SnowflakePowered/aincradfs) provides filesystem isolation and projection for emulators orchestrated by Snowflake.
 * ⚛️ [hydrogen-paper](https://github.com/SnowflakePowered/hydrogen-paper) is the default theme of Snowflake that implements an emulator frontend using the Snowflake framework.
 * 🌈 [librashader](https://github.com/SnowflakePowered/librashader) provides a reusable, easily integratable implementation of the RetroArch shader pipeline for emulators.
   
